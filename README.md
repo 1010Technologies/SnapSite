@@ -1,10 +1,10 @@
-# Snap Community Website
+# MakerBit Community Website
 
-The community website for the [Snap! programming language/environment](https://github.com/jmoenig/Snap)
+The community website for the [MakerBit](https://makerbit.com)
 
 ## Build System
 
-This site is powered by a super simple home-brewed page descriptor system I named **Snippets**. Check it out at [https://github.com/bromagosa/Snippets](https://github.com/bromagosa/Snippets).
+This site is powered by a fork of bromgosa's Snap!Site. Check it out at [https://github.com/snap-cloud/SnapSite]
 
 To build the site, do:
 
